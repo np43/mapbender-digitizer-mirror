@@ -15,6 +15,7 @@
         "debugteam/bootstrap-colorpicker": "1.x",
         "mapbender/data-source": "0.*",
         "phayes/geophp": "1.2",
+        "mapbender/data-manager":  "*",
         "mapbender/vis-ui.js": "*"
     },
     "minimum-stability": "dev",
